@@ -1,0 +1,3 @@
+-- Database Management Sytem: It is used to manage databases
+-- Database: Database is used to retrieve or manipulating the data.
+-- SQL: It is language we use to talk our databases.
